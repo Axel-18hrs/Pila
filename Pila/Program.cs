@@ -48,7 +48,6 @@ namespace Pila
 
                     case 2:
                         Console.Clear();
-                        Console.WriteLine("Number to search for:");
                         pila.Desapiilar();
 
                         break;
