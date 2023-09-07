@@ -59,7 +59,7 @@ namespace Pila
                     case 4:
                         salir = false;
                         Console.Clear();
-                        Console.WriteLine("Good bye <3");
+                        Console.WriteLine("Good bye");
                         break;
                 }
 
